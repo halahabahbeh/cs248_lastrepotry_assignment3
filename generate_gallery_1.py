@@ -25,7 +25,8 @@ image_captions = {
     "leaky-beaker.webp": "The Leaky Beaker",
     "lulu.webp": "Bae Pao Lu Chow Dining Room",
     "stone-d.webp": "Stone Davis Dining Hall",
-    "tower.webp": "Tower Dining Hall"
+    "tower.webp": "Tower Dining Hall",
+    "mymika.webp": "Mymika"
 }
 
 # Filter out images that exist in the folder

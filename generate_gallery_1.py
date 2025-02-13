@@ -26,8 +26,9 @@ image_captions = {
     "lulu.webp": "Bae Pao Lu Chow Dining Room",
     "stone-d.webp": "Stone Davis Dining Hall",
     "tower.webp": "Tower Dining Hall",
-    "mymika.webp": "Mymika"
+    "mymika.webp": "Mymika" # my add
 }
+
 
 # Filter out images that exist in the folder
 image_files = [f for f in os.listdir(IMAGE_FOLDER) if f in image_captions]

@@ -26,7 +26,8 @@ image_captions = {
     "lulu.webp": "Bae Pao Lu Chow Dining Room",
     "stone-d.webp": "Stone Davis Dining Hall",
     "tower.webp": "Tower Dining Hall",
-    "mymika.webp": "Mymika" # my add
+    "mymika.webp": "Mymika", # my add
+    "myfriendsintacobell.webp": "My Friends in Taco Bell" # my add
 }
 
 
